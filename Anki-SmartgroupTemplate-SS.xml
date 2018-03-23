@@ -1,5 +1,5 @@
 <computer_group>
-    <name>%group_name%</name>
+    <name>%group_name%-Install</name>
     <is_smart>true</is_smart>
     <criteria>
         <criterion>
