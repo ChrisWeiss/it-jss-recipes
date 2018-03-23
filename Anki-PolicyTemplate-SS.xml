@@ -1,6 +1,6 @@
 <policy>
     <general>
-        <name>%PROD_NAME%-Install</name>
+        <name>%PROD_NAME%</name>
         <enabled>true</enabled>
         <frequency>Ongoing</frequency>
         <trigger_checkin>false</trigger_checkin>
